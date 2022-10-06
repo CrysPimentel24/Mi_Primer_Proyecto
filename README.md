@@ -18,7 +18,7 @@ Es un sistema de control de versiones distribuido de código abierto desarrollad
 
 
 ## *¿Que nos ofrece GIT?*
-Git, que presenta una arquitectura distribuida, es un ejemplo de DVCS (sistema de control de versiones distribuido, por sus siglas en inglés). En lugar de tener un único espacio para todo el historial de versiones del software, como sucede de manera habitual en los sistemas de control de versiones antaño populares, como CVS o Subversion (también conocido como SVN), en Git, la copia de trabajo del código de cada desarrollador es también un repositorio que puede albergar el historial completo de todos los cambios.
+Git, que presenta una arquitectura distribuida, es un ejemplo de DVCS. En lugar de tener un único espacio para todo el historial de versiones del software, como sucede de manera habitual en los sistemas de control de versiones antaño populares, como CVS o Subversion (también conocido como SVN), en Git, la copia de trabajo del código de cada desarrollador es también un repositorio que puede albergar el historial completo de todos los cambios.
 
 Además de contar con una arquitectura distribuida, Git se ha diseñado teniendo en cuenta el rendimiento, la seguridad y la flexibilidad.
 
@@ -88,3 +88,20 @@ Además de contar con una arquitectura distribuida, Git se ha diseñado teniendo
 - Por defecto, **se lleva mal con archivos binarios muy grandes**, como vídeos o documentos gráficos muy pesados. Por suerte existen soluciones para ello (Git LFS).
 
 # ...................................................................................................................
+
+# |Glosario| 
+
+**Commit**
+- Esto es un comando hace que las actualizaciones de transacciones de la base de datos sean permanentes.
+
+**Archivos Binarios**
+- Son archivos normales que contienen información que el sistema puede leer. Los archivos binarios podrían ser archivos ejecutables que indicaran al sistema que ha de realizar un trabajo. Los mandatos y los programas se almacenan en archivos binarios ejecutables.
+
+**Sistema distribuido**
+- Es un conjunto de programas informáticos que utilizan recursos computacionales en varios nodos de cálculo distintos para lograr un objetivo compartido común.
+
+**DVCS**
+- Sistema de control de versiones distribuido, por sus siglas en inglés.
+
+**Control de Versiones**
+- Es un sistema que registra los cambios realizados en un archivo o conjunto de archivos a lo largo del tiempo, de modo que puedas recuperar versiones específicas más adelante.
