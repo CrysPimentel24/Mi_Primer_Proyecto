@@ -89,3 +89,19 @@ Además de contar con una arquitectura distribuida, Git se ha diseñado teniendo
 
 # ...................................................................................................................
 
+# |Glosario| 
+
+**Commit**
+- Esto es un comando hace que las actualizaciones de transacciones de la base de datos sean permanentes.
+
+**Archivos Binarios**
+- Son archivos normales que contienen información que el sistema puede leer. Los archivos binarios podrían ser archivos ejecutables que indicaran al sistema que ha de realizar un trabajo. Los mandatos y los programas se almacenan en archivos binarios ejecutables.
+
+**Sistema distribuido**
+- Es un conjunto de programas informáticos que utilizan recursos computacionales en varios nodos de cálculo distintos para lograr un objetivo compartido común.
+
+**DVCS**
+- Sistema de control de versiones distribuido, por sus siglas en inglés.
+
+**Control de Versiones**
+- Es un sistema que registra los cambios realizados en un archivo o conjunto de archivos a lo largo del tiempo, de modo que puedas recuperar versiones específicas más adelante.
