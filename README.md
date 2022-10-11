@@ -10,12 +10,12 @@
 - Caracteristicas
 - Ventajas y Desventajasgit
 
-# .....................................................................................................................
+# ....................................................................
 
 ## *¿Que es Git?*
 Es un sistema de control de versiones distribuido de código abierto desarrollado por Linus Torvalds, el creador de Linux. El control de versiones distribuido permite a los desarrolladores descargar un software, realizar cambios y subir la versión que han modificado.
 
-
+![](GitHub.PNG) 
 
 ## *¿Que nos ofrece GIT?*
 Git, que presenta una arquitectura distribuida, es un ejemplo de DVCS. En lugar de tener un único espacio para todo el historial de versiones del software, como sucede de manera habitual en los sistemas de control de versiones antaño populares, como CVS o Subversion (también conocido como SVN), en Git, la copia de trabajo del código de cada desarrollador es también un repositorio que puede albergar el historial completo de todos los cambios.
@@ -39,6 +39,7 @@ Además de contar con una arquitectura distribuida, Git se ha diseñado teniendo
 
 ## *Comandos*
 ### **Los mas usados (en clase):**
+![](ComandosGit.jpg)
 
 **Cls:** Para borrar historial del console.
 
@@ -51,6 +52,11 @@ Además de contar con una arquitectura distribuida, Git se ha diseñado teniendo
 **CMD:** Abrer la consola, cuando estas dentro de console, te dice la versión y los derechos reservados.
 
 **Rmdir:** Borra una carpeta.
+
+OJO: Para el uso de los comandos te puedes auxiliar del siguente video ->
+
+- Dale click al link para ver el video 
+[Comandos Basicos de Git](https://youtu.be/bknZdA0ckHw)
 
 ## *Caracteristicas*
 ### **Git es una herramienta que realiza una función del control de versiones de código de forma distribuida, de la que destacamos varias características**
@@ -87,21 +93,25 @@ Además de contar con una arquitectura distribuida, Git se ha diseñado teniendo
 
 - Por defecto, **se lleva mal con archivos binarios muy grandes**, como vídeos o documentos gráficos muy pesados. Por suerte existen soluciones para ello (Git LFS).
 
-# ...................................................................................................................
+# ....................................................................
 
 # |Glosario| 
 
 **Commit**
-- Esto es un comando hace que las actualizaciones de transacciones de la base de datos sean permanentes.
+1. Esto es un comando hace que las actualizaciones de transacciones de la base de datos sean permanentes.
 
 **Archivos Binarios**
-- Son archivos normales que contienen información que el sistema puede leer. Los archivos binarios podrían ser archivos ejecutables que indicaran al sistema que ha de realizar un trabajo. Los mandatos y los programas se almacenan en archivos binarios ejecutables.
+
+2. Son archivos normales que contienen información que el sistema puede leer. Los archivos binarios podrían ser archivos ejecutables que indicaran al sistema que ha de realizar un trabajo. Los mandatos y los programas se almacenan en archivos binarios ejecutables.
 
 **Sistema distribuido**
-- Es un conjunto de programas informáticos que utilizan recursos computacionales en varios nodos de cálculo distintos para lograr un objetivo compartido común.
+
+3.  Es un conjunto de programas informáticos que utilizan recursos computacionales en varios nodos de cálculo distintos para lograr un objetivo compartido común.
 
 **DVCS**
-- Sistema de control de versiones distribuido, por sus siglas en inglés.
+
+4. Sistema de control de versiones distribuido, por sus siglas en inglés.
 
 **Control de Versiones**
-- Es un sistema que registra los cambios realizados en un archivo o conjunto de archivos a lo largo del tiempo, de modo que puedas recuperar versiones específicas más adelante.
+
+5. Es un sistema que registra los cambios realizados en un archivo o conjunto de archivos a lo largo del tiempo, de modo que puedas recuperar versiones específicas más adelante.
